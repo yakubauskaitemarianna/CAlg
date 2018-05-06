@@ -131,4 +131,4 @@ def Main():
     print(F(result, Alpha, x, b))
 
 if __name__ == "__main__":
-	Main()
+    Main()
